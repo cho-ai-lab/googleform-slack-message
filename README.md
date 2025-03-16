@@ -37,8 +37,17 @@
 
 MIT License를 따릅니다.
 
-## 사용 시 주의사항
+## 사용 시 저작권 표기 방법
 
-이 코드는 MIT 라이센스 하에 배포됩니다. 코드를 사용, 수정 또는 배포할 때는 반드시 원본 저작권 표시와 라이센스 문구를 유지해야 합니다. 출처를 표시할 때는 다음과 같은 형식을 사용해 주세요:
+이 코드를 사용, 수정 또는 재배포할 경우 다음과 같이 저작권 정보를 포함해주세요:
+```
+/**
+ * 구글 설문지 응답이 제출될 때 슬랙으로 알림을 보내는 앱스크립트 코드
+ * 원본 코드: https://github.com/cho-ai-lab/googleform-slack-message
+ * Copyright (c) 2025 Hyunjung Cho
+ * MIT 라이센스에 따라 배포됩니다.
+ */
+```
 
-"원본 코드 제작: 조현정 (https://github.com/cho-ai-lab/googleform-slack-message)"
+## 저작권
+Copyright © 2025 Hyunjung Cho
