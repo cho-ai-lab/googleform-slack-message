@@ -42,7 +42,6 @@ MIT License를 따릅니다.
 이 코드를 사용, 수정 또는 재배포할 경우 다음과 같이 저작권 정보를 포함해주세요:
 ```
 /**
- * 구글 설문지 응답이 제출될 때 슬랙으로 알림을 보내는 앱스크립트 코드
  * 원본 코드: https://github.com/cho-ai-lab/googleform-slack-message
  * Copyright (c) 2025 Hyunjung Cho
  * MIT 라이센스에 따라 배포됩니다.
